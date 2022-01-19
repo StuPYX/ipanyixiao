@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ipanyixiao
+- 👋 Hi, I’m Pan Yixiao
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning c++/java/php
-- 💞️ I’m looking to collaborate on 
 - 📫 https://www.panyixiao.com/
 
 <!---
